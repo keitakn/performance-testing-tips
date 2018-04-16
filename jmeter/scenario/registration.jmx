@@ -32,8 +32,7 @@
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-	&quot;email&quot;: &quot;dummy-name+${nowDateTime}+${index}@gmail.com&quot;,&#xd;
-	&quot;registration_referer&quot;: &quot;PerformanceTest&quot;&#xd;
+	&quot;email&quot;: &quot;dummy-name+${nowDateTime}+${index}@gmail.com&quot;&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
